@@ -1,16 +1,58 @@
 {
-  "items": [
+  "products": [
+    {
+      "id": 1,
+      "name": "Pikachu Plush",
+      "price": 19.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    },
     {
       "id": 2,
-      "name": "Item 2"
+      "name": "Charmander Toy",
+      "price": 24.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
     },
     {
       "id": 3,
-      "name": "Item 3"
+      "name": "Bulbasaur Figure",
+      "price": 15.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
     },
     {
       "id": 4,
-      "name": "09"
+      "name": "Squirtle Toy",
+      "price": 18.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+      "id": 5,
+      "name": "Eevee Plush",
+      "price": 22.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+    },
+    {
+      "id": 6,
+      "name": "Snorlax Plush",
+      "price": 35.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+    },
+    {
+      "id": 7,
+      "name": "Gengar Figure",
+      "price": 28.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png"
+    },
+    {
+      "id": 8,
+      "name": "Mewtwo Figure",
+      "price": 45.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+    },
+    {
+      "id": 9,
+      "name": "Lucario Statue",
+      "price": 39.99,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png"
     }
   ]
 }
